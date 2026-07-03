@@ -89,7 +89,7 @@ Converted Excel serial numbers in `date updated` and `date created` to readable 
 
 **Seyi Oyediran Data Analyst | 3MTT Fellow
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/seyi-oyediran) 
+- 🔗 [LinkedIn](https://www.linkedin.com/in/seyi-oyediran-60217b289) 
 
 ---
 
